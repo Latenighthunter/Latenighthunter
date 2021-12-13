@@ -28,8 +28,8 @@
 
 <div align="center">
     <h2>Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanny-martinez&layout=compact&theme=city_lights" height="175px">
-    <img src="https://github-readme-stats.vercel.app/api?username=giovanny-martinez&show_icons=true&theme=city_lights" height="175px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&layout=compact&theme=city_lights&hide_border=true" height="175px">
+    <img src="https://github-readme-stats.vercel.app/api?username=giovanny-martinez&show_icons=true&theme=city_lights&hide_border=true" height="175px">
 </div>
 
 <div align="center">
