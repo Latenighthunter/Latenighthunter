@@ -8,6 +8,7 @@
     <h2 align="center">About me</h2>
     <li><b>Name</b>: Giovanny</li>
     <li><b>Gender</b>: Male</li>
+    <li><b>Description</b>: I am a noob programmer that is learning to program. I don't know much about programming and I only know how to make basic programs. My goal is to advance my skills and learn machine learning and AI.</li>
     <li><b>Hobbies</b>: Watching Anime, Reading Manga, Programming, Drawing, Playing Video Games</li>
 </div>
 
