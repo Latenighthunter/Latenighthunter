@@ -17,7 +17,6 @@
     <h2>Technology</h2>
     <h3>Languages</h3>
     <img src="https://img.shields.io/badge/-python-ffd43b?style=for-the-badge&labelColor=306998&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/-java-red?style=for-the-badge&labelColor=red&logo=java&logoColor=black">
     <img src="https://img.shields.io/badge/-cpp-lightblue?style=for-the-badge&labelColor=lightblue&logo=cplusplus&logoColor=black">
     <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black">
     <h3>Software & Tools</h3>
