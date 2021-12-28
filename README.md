@@ -25,6 +25,8 @@
     <img src="https://img.shields.io/badge/-git-orange?style=for-the-badge&labelColor=orange&logo=git&logoColor=black">
     <img src="https://img.shields.io/badge/-github-whitesmoke?style=for-the-badge&labelColor=whitesmoke&logo=github&logoColor=black">
     <img src="https://img.shields.io/badge/-Photoshop-blue?style=for-the-badge&labelColor=blue&logo=adobe-photoshop&logoColor=white">
+    <img src="https://img.shields.io/badge/-Node JS-green?style=for-the-badge&labelColor=green&logo=nodejs&logoColor=black">
+    <img src="https://img.shields.io/badge/-Premiere Pro-darkblue?style=for-the-badge&labelColor=darkblue&logo=adobe-premiere-pro&logoColor=white">
 </div>
 
 <div align="center">
